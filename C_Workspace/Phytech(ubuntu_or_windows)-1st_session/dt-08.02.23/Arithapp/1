@@ -1,5 +1,0 @@
-float c(float b, float h)
-{
-	return b/h;
-}
-
